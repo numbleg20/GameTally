@@ -1,7 +1,6 @@
 <div align="center">
   
-![splash](https://github.com/repozen/GameTally/assets/111631956/9c2ff339-5043-4752-aaff-4596f503b041)
-
+![splash-modified](https://github.com/repozen/GameTally/assets/111631956/f6000204-3961-4e34-8989-c81562350556)
 
 ## Screenshots:
 
