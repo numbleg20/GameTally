@@ -5,6 +5,5 @@
 
 ## Screenshots:
 
-![image](https://github.com/swirlz-dev/TinyTrash/assets/111631956/116ac142-c32c-4667-934b-389873cf1516)
-
+![image](https://github.com/repozen/GameTally/assets/111631956/c605c1d4-6e5d-463e-a8af-8d037f56d60e)
 </div>
