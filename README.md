@@ -2,7 +2,7 @@
   
 ![splash-modified](https://github.com/repozen/GameTally/assets/111631956/f6000204-3961-4e34-8989-c81562350556)
 
-//description//
+The program allows you to play any games (not licensed ones either) and keep track of the time spent in the game.
 
 ## Screenshots:
 
