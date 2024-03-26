@@ -1,6 +1,0 @@
-D:\C# projects\GameTally\wAPI\bin\Debug\wAPI.dll
-D:\C# projects\GameTally\wAPI\bin\Debug\wAPI.pdb
-D:\C# projects\GameTally\wAPI\obj\Debug\wAPI.csproj.AssemblyReference.cache
-D:\C# projects\GameTally\wAPI\obj\Debug\wAPI.csproj.CoreCompileInputs.cache
-D:\C# projects\GameTally\wAPI\obj\Debug\wAPI.dll
-D:\C# projects\GameTally\wAPI\obj\Debug\wAPI.pdb
