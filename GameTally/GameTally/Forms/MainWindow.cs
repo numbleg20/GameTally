@@ -1,9 +1,3 @@
-﻿/// <summary>
-/// Version 1.2 TODO:
-/// -Reset time button [added]
-/// -Fix if user in game and select another game, current opened game chenging to selected [fixed]
-/// </summary>
-
 using GameTally.Enums;
 using GameTally.Forms;
 using GameTally.Helpers;
