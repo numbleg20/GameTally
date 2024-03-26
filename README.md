@@ -6,5 +6,5 @@
 
 ## Screenshots:
 
-![image](https://github.com/repozen/GameTally/assets/111631956/c605c1d4-6e5d-463e-a8af-8d037f56d60e)
+![image](https://github.com/repozen/GameTally/assets/111631956/a00f4ecd-ad05-4ae6-b3aa-cf0f70a42f8d)
 </div>
