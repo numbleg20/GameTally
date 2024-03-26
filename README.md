@@ -6,5 +6,5 @@ The program allows you to play any games (not licensed ones either) and keep tra
 
 ## Screenshots:
 
-![image](https://github.com/repozen/GameTally/assets/111631956/a00f4ecd-ad05-4ae6-b3aa-cf0f70a42f8d)
+![image](https://github.com/repozen/GameTally/assets/111631956/e5e4a6ae-b2b7-4b5d-aa25-03182bb01568)
 </div>
