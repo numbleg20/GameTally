@@ -11,7 +11,7 @@ The program allows you to play any games (not licensed ones either) and keep tra
 
 ## Hints
 
-***1. Discord RPC*** <br>
+**1. Discord RPC** <br>
 **To activate it, you will need to download the archive with all the necessary files and unpack them into the root of the program, for example:**
 ```D:/Applications/GameTally``` <br>
 <a href="https://mega.nz/file/YvI1XKYC#PJXzrK5ZmmKh5ab4GcuI6zw96fqxyN3UkfRXolXHRck">Download files</a>
