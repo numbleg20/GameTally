@@ -13,7 +13,7 @@ namespace GameTally.Resources
     {
         public const string APPLICATION_NAME = "GameTally";
         public const string AUTHOR = "@repozen";
-        public const string RPC_CLIENT_KEY = "1221917251616374866"; // change before publish
+        public const string RPC_CLIENT_KEY = "Your_Client_Key";
 
         public const string NO_COVER_PATH = "Images/nocover.bmp";
         public const string TRAY_ICON_PATH = "Images/ic_launcher.ico";
